@@ -1,2 +1,0 @@
-# overture
-Discord bot
